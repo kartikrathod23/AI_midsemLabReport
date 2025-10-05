@@ -11,15 +11,15 @@ The repository is organized into separate folders for each lab:
 │   ├── lab_discussion/
 │   └── lab_submission/
 │
-├── lab_assignmet01/
+├── lab_assignmet02/
 │   ├── lab_discussion/
 │   └── lab_submission/
 │
-├── lab_assignmet01/
+├── lab_assignmet03/
 │   ├── lab_discussion/
 │   └── lab_submission/
 │
-└── lab_assignmet01/
+└── lab_assignmet04/
     ├── lab_discussion/
     └── lab_submission/
 
