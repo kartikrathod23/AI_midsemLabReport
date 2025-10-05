@@ -5,7 +5,7 @@ This repository contains the complete codebase for the CS367 Mid-Semester Labora
 Repository Structure
 
 The repository is organized into separate folders for each lab:
-
+```
 .
 ├── lab_assignmet01/
 │   ├── lab_discussion/
@@ -23,7 +23,7 @@ The repository is organized into separate folders for each lab:
     ├── lab_discussion/
     └── lab_submission/
 
-
+```
 Each lab directory contains:
 
 In-Lab Codes: Programs implemented during lab sessions.
